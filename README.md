@@ -27,5 +27,6 @@
 <p>I have a strong interest in AI and I'm always looking for the next exciting thing in tech. Feel free to get in touch any time, I'm always happy to chat.</p>
 
 <h3>Where to find me</h3>
+<p>You can find me on my website <a href="https://ericlighthall.com">here</a>.</p>
 <p><a href="https://github.com/Eric-Lighthall" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/EricLighthall" target="_blank"><img alt="X" src="https://img.shields.io/badge/X/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://www.linkedin.com/in/eric-lighthall/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
