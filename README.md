@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!</h1>
 
 
-<p>Welcome to my page! </br> I'm Eric, a Fullstack developer currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>Seattle, Washington</b>. </p>
+<p>Welcome to my page! <br/> I'm Eric, a Fullstack developer based in <b>Boston, Massachusetts</b>, and from <b>Seattle, Washington</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/>.</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
